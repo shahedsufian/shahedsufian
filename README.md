@@ -41,7 +41,7 @@
   - Developed evaluation framework, data collection tools, and training materials, conducted four training sessions for data collectors, and mobilized project field activities for primary data collection.
   - Successfully completed a mixed-method study exploring factors associated with workplace stress.
 
-- **Project Manager, Dhaka University Telemedicine Program, Bangladesh**  
+- **Project Manager,** *Dhaka University Telemedicine Program, Bangladesh*  
   *Jan 2017 – Jan 2018*  
   - Spearheaded the design, development, and implementation of a field trial of a home-based telemedicine service that reached 25,000 rural people in Bangladesh, promoting health equity.
 
