@@ -21,21 +21,21 @@
   *Graduated: Oct 2014*
 
 ## Experience
-- **G. Richard Smith, MD, Fellow, Arkansas Center for Health Improvement, Little Rock, AR**  
+- **G. Richard Smith, MD, Fellow,** *Arkansas Center for Health Improvement, Little Rock, AR*  
   *Jan 2025 – Present*  
   - Evaluating the effect of patient-provider communication quality on healthcare outcomes for cancer survivors using causal inference methods and analyzing national survey data.
 
-- **Graduate Research Assistant, UAMS, Little Rock, AR**  
+- **Graduate Research Assistant,** *UAMS, Little Rock, AR*  
   *Aug 2021 – Present*  
   - Linked and analyzed large data sets on education and all-payer claims data, securing and executing a $1.2 million NIH grant to evaluate the impact of school meal delivery on behavioral disorders.
   - Deployed advanced research methodologies linking claims and child opportunity index data to assess trends and geographic variation in the prevalence of behavioral disorders among children and adolescents.
   - Examined national survey data on patient-provider communication and the Affordable Care Act, presenting impactful findings at conferences, emphasizing their role in improving health equity.
 
-- **Data Science Intern, Arkansas Blue Cross and Blue Shield, Little Rock, AR**  
+- **Data Science Intern,** *Arkansas Blue Cross and Blue Shield, Little Rock, AR*  
   *Jan 2023 – Dec 2023*  
   - Evaluated two value-based programs using propensity score matching technique and payer claims data, delivering key insights into return on investment, cost savings, and quality enhancements.
 
-- **Research Fellow, icddr,b, Dhaka, Bangladesh**  
+- **Research Fellow,** *icddr,b, Dhaka, Bangladesh*  
   *Feb 2019 – Jul 2021*  
   - Coordinated the research and managerial activities of a USAID-funded project evaluating the national health eRegister program in Bangladesh, delivering insights on program impact and enhancement scopes.
   - Developed evaluation framework, data collection tools, and training materials, conducted four training sessions for data collectors, and mobilized project field activities for primary data collection.
